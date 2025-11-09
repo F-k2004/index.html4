@@ -1,6 +1,6 @@
 <!-- index.html -->
 <!DOCTYPE html>
-<tml lang="fa">
+<html lang="fa">
 <head>
   <meta charset="UTF-8">
   <title>🎨 تولیدکننده رنگ تصادفی</title>
